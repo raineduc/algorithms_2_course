@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/hrami/Desktop/ramil/algos/timus/telegraphs.cpp
+iostream
+-
+vector
+-
+deque
+-
+string
+-
+queue
+-
+math.h
+-
+unordered_map
+-
+
